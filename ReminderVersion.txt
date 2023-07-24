@@ -1,2 +1,2 @@
 Live Version := 1.0.5.6
-OldVersions  := 
+OldVersions  := [0.5,0.75,0.9]
