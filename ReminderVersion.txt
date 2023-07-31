@@ -1,5 +1,5 @@
 {
-  "Live Version": "1.0.5.6",
-  "Old Versions": [0.5, 0.75, 0.9]
+  "LiveVersion": "1.0.5.6",
+  "OldVersions": [0.5, 0.75, 0.9]
 }
 
