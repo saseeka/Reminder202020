@@ -2,13 +2,13 @@
   "VersionText": "https://raw.githubusercontent.com/saseeka/Reminder202020/main/ReminderVersion.txt",
   "UpdateSof": "https://raw.githubusercontent.com/saseekaweerasinghe/20_Min_Eye_Reminder/main/SofUpdate20FilePath", 
   "FIlePath": "C:\\Users\\user\\Desktop\\2067.2020.Sinhala.Subti980le.rar",
-  "BuyPrem": 0,
-  "InstructionL": 0,
-  "CheckUpdate": 0,
-  "WebAccsess": 0,
-  "CreditsL": 0,
-  "FeedBack": 0,
-  "HelpLink": 0,
-  "BuyMeCoffee": 0,
-  "ReqNewFeture": 0
+  "BuyPrem": "0",
+  "InstructionL": "0",
+  "CheckUpdate": "0",
+  "WebAccsess": "0",
+  "CreditsL": "0",
+  "FeedBack": "0",
+  "HelpLink": "0",
+  "BuyMeCoffee": "0",
+  "ReqNewFeture": "0"
 }
