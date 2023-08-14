@@ -11,5 +11,6 @@
   "HelpLink": 0,
   "BuyMeCoffee": 0,
   "ReqNewFeture": 0,
-  "UpdaterL": 0
+  "UpdaterDWNld": 0,
+  "UpdaterUp": "https://raw.githubusercontent.com/saseeka/Reminder202020/main/UpdaterUpdate"
 }
