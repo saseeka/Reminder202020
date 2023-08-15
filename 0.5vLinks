@@ -1,3 +1,8 @@
 {
-  "Guide": 0
+  "ThisVGuide": 0,
+  "WhatsNewThisV": 0,
+  "MainExeFile": 0,
+  "SettingsExe": 0,
+  "DLLFile": 0,
+  "OtherFiles": 0
 }
