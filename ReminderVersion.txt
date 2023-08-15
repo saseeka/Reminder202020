@@ -1,6 +1,6 @@
 {
   "Version": "1.0.5.6",
   "FileDwnLnk": "https://www.udrop.com/file/KxPP/Bot_Pack.zip",
-  "FileDelArr": ["25487.eps","36334.eps"]
+  "FileAvoidMove": ["VGX Updater.exe", "SettingsSave.ini"]
 }
 
