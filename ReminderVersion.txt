@@ -1,6 +1,6 @@
 {
   "Version": "1.0.5.6",
-  "FileDwnLnk": "https://www.udrop.com/file/Kzy0/0.5v_Files_(2).zip",
+  "FileDwnLnk": "https://www.udrop.com/file/Kz6H/0.5v_Other_Files.zip",
   "FileAvoidMove": ["VGX Updater.exe", "SettingsSave.ini"]
 }
 
