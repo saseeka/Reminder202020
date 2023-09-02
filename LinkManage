@@ -1,10 +1,6 @@
 {
   "VersionText": "https://raw.githubusercontent.com/saseeka/Reminder202020/main/ReminderVersion.txt",
-  "UpdateSof": 0, 
-  "FIlePath": 0,
   "BuyPrem": 0,
-  "InstructionL": 0,
-  "CheckUpdate": 0,
   "WebAccsess": 0,
   "CreditsL": 0,
   "FeedBack": 0,
@@ -13,6 +9,5 @@
   "ReqNewFeture": 0,
   "UpdaterDWNld": "https://www.udrop.com/file/KBU7/VGX_Updater.exe",
   "UpdaterUp": "20230820",
-  "VersionGuide": 0,
   "OrKey": "5ACE0DF16F391BAFA2CDDF461A1F4725C353CCC8EF85551A"
 }
