@@ -2,6 +2,5 @@
   "Version": "0.7",
   "FileDwnLnk": "https://www.udrop.com/file/KIL6/0.7_Update_ZIP.zip",
   "FileAvoidMove": ["VGX Updater.exe", "flag 0.5 .txt"],
-  "VerifyFile": ["Guard X Setting.exe","Vision Guard X.exe","Res.dll","Loading.gif","1E.mp3","CE.mp3","EndE.mp3","ErE.mp3","StartE.mp3"]
 }
 
