@@ -1,6 +1,7 @@
 {
-  "Version": "1.0.5.6",
-  "FileDwnLnk": "https://www.udrop.com/file/KBUI/Version_9.0_Update_Zip.zip",
-  "FileAvoidMove": ["VGX Updater.exe", "SettingsSave.ini"]
+  "Version": "0.7",
+  "FileDwnLnk": "https://www.udrop.com/file/KIL6/0.7_Update_ZIP.zip",
+  "FileAvoidMove": ["VGX Updater.exe", "flag 0.5 .txt"],
+  "VerifyFile": ["Guard X Setting.exe","Vision Guard X.exe","Res.dll","Loading.gif","1E.mp3","CE.mp3","EndE.mp3","ErE.mp3","StartE.mp3"]
 }
 
