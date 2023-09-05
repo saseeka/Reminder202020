@@ -1,5 +1,5 @@
 {
   "Version": "0.7",
   "FileDwnLnk": "https://www.udrop.com/file/KINS/0.7_Update.zip",
-  "FileAvoidMove": ["VGX Updater.exe", "flag 0.5 .txt"]
+  "FileAvoidMove": ["VGX Updater.exe", "flag 0.5 .txt", "SettingsSave.ini"]
 }
